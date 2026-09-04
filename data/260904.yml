@@ -7,7 +7,7 @@ about:
   head: dc55920
   archived: false
   latestVersion: 2.4.10.dev+000834-2757db88
-  collectedAt: 2026-09-04T19:59:22Z
+  collectedAt: 2026-09-04T20:42:54Z
 timeline:
   created: 2010-01-21
   lastCommit: 2026-09-03
@@ -88,6 +88,99 @@ total:
   openIssue: 671
   commit: 17074
 ---
+path: /home/runner/.x-repo/github.com/hashicorp/vagrant
+collectedAt: 2026-09-04T20:42:59Z
+loc:
+  Ruby:
+    code: 106472
+    comments: 15470
+    blanks: 23773
+    files: 1448
+  Yaml:
+    code: 3995
+    comments: 40
+    blanks: 193
+    files: 15
+  Go:
+    code: 1622
+    comments: 171
+    blanks: 350
+    files: 22
+  PowerShell:
+    code: 1559
+    comments: 531
+    blanks: 311
+    files: 52
+  RubyHtml:
+    code: 716
+    comments: 0
+    blanks: 67
+    files: 58
+  Sh:
+    code: 267
+    comments: 77
+    blanks: 60
+    files: 10
+  RPMSpecfile:
+    code: 151
+    comments: 15
+    blanks: 11
+    files: 1
+  Bash:
+    code: 47
+    comments: 11
+    blanks: 10
+    files: 2
+  Rakefile:
+    code: 39
+    comments: 8
+    blanks: 8
+    files: 4
+  C:
+    code: 24
+    comments: 4
+    blanks: 9
+    files: 1
+  CHeader:
+    code: 10
+    comments: 4
+    blanks: 5
+    files: 1
+  Protobuf:
+    code: 8
+    comments: 2
+    blanks: 5
+    files: 1
+  Json:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 2
+  VimScript:
+    code: 6
+    comments: 2
+    blanks: 1
+    files: 1
+  Elisp:
+    code: 1
+    comments: 9
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4035
+    blanks: 778
+    files: 8
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 114927
+  comments: 20380
+  blanks: 25582
+  files: 1628
 ---
 date: "2026-08-24"
 repo:
