@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 3 | 4 |
-| last60d | 2026-07-12 | 0 | 4 | 0 | 1 | 4 | 5 |
-| 90d | 2026-06-12 | 0 | 5 | 3 | 2 | 6 | 9 |
-| last180d | 2026-03-14 | 3 | 10 | 7 | 3 | 13 | 15 |
-| 360d | 2025-09-15 | 19 | 31 | 16 | 9 | 28 | 59 |
-| last720d | 2024-09-20 | 69 | 102 | 25 | 99 | 53 | 274 |
+| 30d | 2026-08-12 | 0 | 1 | 0 | 0 | 2 | 4 |
+| last60d | 2026-07-13 | 0 | 4 | 0 | 1 | 4 | 5 |
+| 90d | 2026-06-13 | 0 | 5 | 3 | 2 | 6 | 9 |
+| last180d | 2026-03-15 | 3 | 10 | 7 | 3 | 13 | 15 |
+| 360d | 2025-09-16 | 19 | 31 | 16 | 9 | 28 | 59 |
+| last720d | 2024-09-21 | 69 | 102 | 25 | 99 | 53 | 274 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:43:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:22:08Z._
