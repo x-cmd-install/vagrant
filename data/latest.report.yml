@@ -7,7 +7,7 @@ about:
   latestVersion: "2.4.10.dev+000834-2757db88"
   latestRelease: "v2.4.9"
   latestPrerelease: "2.4.10.dev+000834-2757db88"
-  collectedAt: 2026-09-11T06:21:33Z
+  collectedAt: 2026-09-11T18:29:59Z
 timeline:
   created: 2010-01-21
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-08-21
   lastPrerelease: 2026-06-01
 popularity:
-  star: 27206
+  star: 27208
   watcher: 709
   fork: 4396
   release: 191
@@ -91,7 +91,7 @@ total:
   commit: 17074
 ---
 path: /home/runner/.x-repo/github.com/hashicorp/vagrant
-collectedAt: 2026-09-11T06:21:51Z
+collectedAt: 2026-09-11T18:30:07Z
 loc:
   Ruby:
     code: 106472
