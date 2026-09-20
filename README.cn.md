@@ -4,7 +4,7 @@
 
 Vagrant is a tool for building and distributing development environments.
 
-![vagrant](https://repo.x-cmd.io/vagrant.svg?lang=zh)
+[![x-cmd/install — vagrant Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vagrant.svg?lang=zh)](https://x-cmd.com/install/vagrant)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install vagrant
 
 ## 流行度
 
-- **Star**: 27,214 · **Fork**: 4,398 · **开放 issue**: 9,658 · **贡献者**: 1,092
+- **Star**: 27,210 · **Fork**: 4,398 · **开放 issue**: 9,658 · **贡献者**: 1,092
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install vagrant
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 2 | 0 | 4 | 4 |
-| last60d | 2026-07-20 | 0 | 4 | 2 | 1 | 6 | 5 |
-| 90d | 2026-06-20 | 0 | 5 | 5 | 2 | 7 | 9 |
-| last180d | 2026-03-22 | 2 | 9 | 9 | 3 | 15 | 14 |
-| 360d | 2025-09-23 | 19 | 31 | 17 | 7 | 28 | 59 |
-| last720d | 2024-09-28 | 69 | 102 | 27 | 99 | 55 | 272 |
+| 30d | 2026-08-21 | 0 | 1 | 2 | 0 | 3 | 4 |
+| last60d | 2026-07-22 | 0 | 4 | 2 | 1 | 6 | 5 |
+| 90d | 2026-06-22 | 0 | 5 | 5 | 2 | 7 | 9 |
+| last180d | 2026-03-24 | 2 | 9 | 8 | 2 | 15 | 14 |
+| 360d | 2025-09-25 | 19 | 31 | 17 | 7 | 28 | 59 |
+| last720d | 2024-09-30 | 69 | 102 | 27 | 99 | 55 | 272 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ vagrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:29:33Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:22:52Z._

@@ -4,7 +4,7 @@
 
 Vagrant is a tool for building and distributing development environments.
 
-![vagrant](https://repo.x-cmd.io/vagrant.svg)
+[![x-cmd/install — vagrant Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vagrant.svg)](https://x-cmd.com/install/vagrant)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,214 · **Forks**: 4,398 · **Open issues**: 9,658 · **Contributors**: 1,092
+- **Stars**: 27,210 · **Forks**: 4,398 · **Open issues**: 9,658 · **Contributors**: 1,092
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 2 | 0 | 4 | 4 |
-| last60d | 2026-07-20 | 0 | 4 | 2 | 1 | 6 | 5 |
-| 90d | 2026-06-20 | 0 | 5 | 5 | 2 | 7 | 9 |
-| last180d | 2026-03-22 | 2 | 9 | 9 | 3 | 15 | 14 |
-| 360d | 2025-09-23 | 19 | 31 | 17 | 7 | 28 | 59 |
-| last720d | 2024-09-28 | 69 | 102 | 27 | 99 | 55 | 272 |
+| 30d | 2026-08-21 | 0 | 1 | 2 | 0 | 3 | 4 |
+| last60d | 2026-07-22 | 0 | 4 | 2 | 1 | 6 | 5 |
+| 90d | 2026-06-22 | 0 | 5 | 5 | 2 | 7 | 9 |
+| last180d | 2026-03-24 | 2 | 9 | 8 | 2 | 15 | 14 |
+| 360d | 2025-09-25 | 19 | 31 | 17 | 7 | 28 | 59 |
+| last720d | 2024-09-30 | 69 | 102 | 27 | 99 | 55 | 272 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:29:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:22:51Z._
