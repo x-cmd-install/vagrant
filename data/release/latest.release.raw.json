@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 83,
       "digest": "sha256:06439db65a90ff8b18d9e60e123b489fea78969b8e71fdabed4cb2e2f1b3f2b8",
-      "download_count": 440,
+      "download_count": 441,
       "created_at": "2025-08-21T07:45:32Z",
       "updated_at": "2025-08-21T07:45:32Z",
       "browser_download_url": "https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:1eb7501e5571d43b9ccf2827da1c20abe88aec967293647ff5524b5c3aa85caf",
-      "download_count": 391,
+      "download_count": 392,
       "created_at": "2025-08-21T07:45:33Z",
       "updated_at": "2025-08-21T07:45:33Z",
       "browser_download_url": "https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS.sig"
