@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,217 · **Forks**: 4,428 · **Open issues**: 9,658 · **Contributors**: 1,082
+- **Stars**: 27,217 · **Forks**: 4,400 · **Open issues**: 9,658 · **Contributors**: 1,084
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2803 · **Open PRs**: 84 · **Closed issues**: 8984 · **Open issues**: 674 · **Commits**: 17074
+- **Releases**: 191 · **Merged PRs**: 2803 · **Open PRs**: 83 · **Closed issues**: 8984 · **Open issues**: 674 · **Commits**: 17074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 4 | 0 | 5 | 4 |
-| 90d | 2026-07-24 | 0 | 4 | 4 | 1 | 8 | 5 |
-| last180d | 2026-04-25 | 1 | 7 | 8 | 2 | 14 | 12 |
-| 360d | 2025-10-27 | 19 | 30 | 18 | 7 | 30 | 58 |
-| last720d | 2024-11-01 | 66 | 96 | 29 | 89 | 54 | 256 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 4 | 0 | 5 | 4 |
+| 90d | 2026-07-25 | 0 | 4 | 4 | 0 | 8 | 5 |
+| last180d | 2026-04-26 | 1 | 7 | 8 | 2 | 14 | 12 |
+| 360d | 2025-10-28 | 19 | 30 | 18 | 5 | 30 | 58 |
+| last720d | 2024-11-02 | 65 | 96 | 28 | 87 | 54 | 243 |
 
 ## Release assets
 
@@ -72,6 +72,18 @@ Lowest-scoring checks:
 | [vagrant-2.4.9.gem](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant-2.4.9.gem) | 692.0 KiB | `other` |
 | [vagrant_2.4.9_SHA256SUMS](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS) | 83 B | `other` |
 | [vagrant_2.4.9_SHA256SUMS.sig](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS.sig) | 566 B | `other` |
+
+## Distribution status
+
+Reported by **124** distros on [repology.org](https://repology.org/project/vagrant). **14** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.3.7+git20230731.5fc64cde` | ⚠️ outdated |
+| Debian 13 | `2.3.7+git20230731.5fc64cde` | ⚠️ outdated |
+| Fedora rawhide | `2.3.4` | ⚠️ outdated |
+| Nix unstable | `2.4.9` | ✅ latest |
+| Void | `2.4.9` | ✅ latest |
 
 ## Improve this data
 
@@ -82,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:10:15Z._

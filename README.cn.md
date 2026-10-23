@@ -48,22 +48,22 @@ x install vagrant
 
 ## 流行度
 
-- **Star**: 27,217 · **Fork**: 4,428 · **开放 issue**: 9,658 · **贡献者**: 1,082
+- **Star**: 27,217 · **Fork**: 4,400 · **开放 issue**: 9,658 · **贡献者**: 1,084
 
 ## 累计统计
 
-- **发布数**: 191 · **已合并 PR**: 2803 · **开放 PR**: 84 · **已关闭 issue**: 8984 · **开放 issue**: 674 · **提交数**: 17074
+- **发布数**: 191 · **已合并 PR**: 2803 · **开放 PR**: 83 · **已关闭 issue**: 8984 · **开放 issue**: 674 · **提交数**: 17074
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 4 | 0 | 5 | 4 |
-| 90d | 2026-07-24 | 0 | 4 | 4 | 1 | 8 | 5 |
-| last180d | 2026-04-25 | 1 | 7 | 8 | 2 | 14 | 12 |
-| 360d | 2025-10-27 | 19 | 30 | 18 | 7 | 30 | 58 |
-| last720d | 2024-11-01 | 66 | 96 | 29 | 89 | 54 | 256 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 4 | 0 | 5 | 4 |
+| 90d | 2026-07-25 | 0 | 4 | 4 | 0 | 8 | 5 |
+| last180d | 2026-04-26 | 1 | 7 | 8 | 2 | 14 | 12 |
+| 360d | 2025-10-28 | 19 | 30 | 18 | 5 | 30 | 58 |
+| last720d | 2024-11-02 | 65 | 96 | 28 | 87 | 54 | 243 |
 
 ## Release 资产
 
@@ -72,6 +72,18 @@ x install vagrant
 | [vagrant-2.4.9.gem](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant-2.4.9.gem) | 692.0 KiB | `other` |
 | [vagrant_2.4.9_SHA256SUMS](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS) | 83 B | `other` |
 | [vagrant_2.4.9_SHA256SUMS.sig](https://github.com/hashicorp/vagrant/releases/download/v2.4.9/vagrant_2.4.9_SHA256SUMS.sig) | 566 B | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/vagrant) 上共有 **124** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.3.7+git20230731.5fc64cde` | ⚠️ outdated |
+| Debian 13 | `2.3.7+git20230731.5fc64cde` | ⚠️ outdated |
+| Fedora rawhide | `2.3.4` | ⚠️ outdated |
+| Nix unstable | `2.4.9` | ✅ latest |
+| Void | `2.4.9` | ✅ latest |
 
 ## 改进这些数据
 
@@ -82,4 +94,4 @@ vagrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:56:13Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:10:16Z._
