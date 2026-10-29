@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,214 · **Forks**: 4,449 · **Open issues**: 9,655 · **Contributors**: 1,084
+- **Stars**: 27,215 · **Forks**: 4,463 · **Open issues**: 9,656 · **Contributors**: 1,084
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2802 · **Open PRs**: 83 · **Closed issues**: 8981 · **Open issues**: 674 · **Commits**: 17074
+- **Releases**: 191 · **Merged PRs**: 2802 · **Open PRs**: 83 · **Closed issues**: 8981 · **Open issues**: 675 · **Commits**: 17074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-29 | 0 | 1 | 4 | 0 | 5 | 2 |
-| 90d | 2026-07-30 | 0 | 2 | 4 | 0 | 8 | 5 |
-| last180d | 2026-05-01 | 1 | 7 | 8 | 2 | 14 | 12 |
-| 360d | 2025-11-02 | 19 | 30 | 18 | 5 | 29 | 57 |
-| last720d | 2024-11-07 | 62 | 94 | 28 | 82 | 53 | 239 |
+| 30d | 2026-09-29 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-30 | 0 | 1 | 4 | 0 | 6 | 2 |
+| 90d | 2026-07-31 | 0 | 2 | 4 | 0 | 9 | 5 |
+| last180d | 2026-05-02 | 1 | 7 | 8 | 2 | 15 | 12 |
+| 360d | 2025-11-03 | 19 | 29 | 18 | 5 | 30 | 57 |
+| last720d | 2024-11-08 | 62 | 94 | 28 | 82 | 54 | 237 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **123** distros on [repology.org](https://repology.org/project/vagrant). **14** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+Reported by **122** distros on [repology.org](https://repology.org/project/vagrant). **14** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:09:45Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:07:52Z._
