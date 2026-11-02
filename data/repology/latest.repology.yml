@@ -2,24 +2,6 @@
   srcname: vagrant64
   binname: vagrant64
   visiblename: Vagrant 64 bit
-  version: 2.2.1
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable64
-  srcname: vagrant64
-  binname: vagrant64
-  visiblename: Vagrant 64 bit
-  version: 2.2.2
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable64
-  srcname: vagrant64
-  binname: vagrant64
-  visiblename: Vagrant 64 bit
   version: 2.2.3
   origversion: null
   status: legacy
@@ -146,33 +128,6 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.13
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
-  version: 2.2.9
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
-  version: 2.2.10
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
   version: 2.2.11
   origversion: null
   status: legacy
@@ -182,7 +137,61 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
+  version: 2.2.13
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
   version: 2.2.14
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
+  version: 2.2.15
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
+  version: 2.2.16
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
+  version: 2.2.17
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
+  version: 2.2.18
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable64
+  srcname: vagrant64
+  binname: vagrant64
+  visiblename: Vagrant 64 bit
+  version: 2.1.2
   origversion: null
   status: legacy
   categories:
@@ -210,6 +219,15 @@
   binname: vagrant64
   visiblename: Vagrant 64 bit
   version: "2.2"
+  origversion: null
+  status: legacy
+  categories:
+    - Development
+- repo: npackd_stable64
+  srcname: vagrant64
+  binname: vagrant64
+  visiblename: Vagrant 64 bit
+  version: 2.2.1
   origversion: null
   status: legacy
   categories:
@@ -338,15 +356,6 @@
     - hans@eds.org
   categories:
     - admin
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
-  version: 2.2.6
-  origversion: null
-  status: legacy
-  categories:
-    - Development
 - repo: deepin_unstable
   subrepo: main
   srcname: vagrant
@@ -539,15 +548,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
-  version: 2.2.7
-  origversion: null
-  status: legacy
-  categories:
-    - Development
 - repo: freebsd
   srcname: sysutils/vagrant
   binname: vagrant
@@ -574,6 +574,26 @@
     - BUSL-1.1
   categories:
     - app-emulation
+- repo: nix_stable_24_11
+  srcname: vagrant
+  visiblename: vagrant
+  version: 2.4.3
+  origversion: null
+  status: outdated
+  summary: Tool for building complete development environments
+  maintainers:
+    - tyler+nixpkgs@langlois.to
+  licenses:
+    - BUSL-1.1
+- repo: npackd_stable
+  srcname: vagrant
+  binname: vagrant
+  visiblename: Vagrant
+  version: 2.2.19
+  origversion: null
+  status: outdated
+  categories:
+    - Development
 - repo: gentoo
   srcname: app-emulation/vagrant
   visiblename: app-emulation/vagrant
@@ -659,6 +679,15 @@
     - BUSL-1.1
   categories:
     - app-emulation
+- repo: npackd_stable64
+  srcname: vagrant64
+  binname: vagrant64
+  visiblename: Vagrant 64 bit
+  version: 2.2.2
+  origversion: null
+  status: legacy
+  categories:
+    - Development
 - repo: mageia_9
   subrepo: core/release
   srcname: vagrant
@@ -689,15 +718,6 @@
     - MIT
   categories:
     - Development/Other
-- repo: npackd_stable
-  srcname: vagrant
-  binname: vagrant
-  visiblename: Vagrant
-  version: 2.2.8
-  origversion: null
-  status: legacy
-  categories:
-    - Development
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: vagrant
@@ -713,6 +733,28 @@
     - MIT
   categories:
     - Development/Other
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: vagrant
+  binname: vagrant
+  visiblename: vagrant
+  version: 2.3.7
+  origversion: 2.3.7-1
+  status: outdated
+  summary: Build and distribute virtualized development environments
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vagrant
+  binname: vagrant
+  visiblename: vagrant
+  version: 2.3.7
+  origversion: 2.3.7-1
+  status: outdated
+  summary: Build and distribute virtualized development environments
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: vagrant
   visiblename: vagrant
@@ -724,17 +766,6 @@
     - tyler+nixpkgs@langlois.to
   licenses:
     - Business Source License 1.1
-- repo: nix_stable_24_11
-  srcname: vagrant
-  visiblename: vagrant
-  version: 2.4.3
-  origversion: null
-  status: outdated
-  summary: Tool for building complete development environments
-  maintainers:
-    - tyler+nixpkgs@langlois.to
-  licenses:
-    - BUSL-1.1
 - repo: nix_stable_25_05
   srcname: vagrant
   visiblename: vagrant
@@ -927,7 +958,7 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.15
+  version: 2.2.6
   origversion: null
   status: legacy
   categories:
@@ -936,7 +967,7 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.16
+  version: 2.2.7
   origversion: null
   status: legacy
   categories:
@@ -945,7 +976,7 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.17
+  version: 2.2.8
   origversion: null
   status: legacy
   categories:
@@ -954,7 +985,7 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.18
+  version: 2.2.9
   origversion: null
   status: legacy
   categories:
@@ -963,9 +994,9 @@
   srcname: vagrant
   binname: vagrant
   visiblename: Vagrant
-  version: 2.2.19
+  version: 2.2.10
   origversion: null
-  status: outdated
+  status: legacy
   categories:
     - Development
 - repo: npackd_stable64
@@ -1000,15 +1031,6 @@
   binname: vagrant64
   visiblename: Vagrant 64 bit
   version: 2.1.1
-  origversion: null
-  status: legacy
-  categories:
-    - Development
-- repo: npackd_stable64
-  srcname: vagrant64
-  binname: vagrant64
-  visiblename: Vagrant 64 bit
-  version: 2.1.2
   origversion: null
   status: legacy
   categories:
@@ -1069,7 +1091,7 @@
   categories:
     - admin
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: vagrant
   binnames:
     - vagrant
@@ -1084,7 +1106,7 @@
   categories:
     - admin
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: vagrant
   binnames:
     - vagrant
