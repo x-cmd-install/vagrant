@@ -38,32 +38,32 @@ Lowest-scoring checks:
 
 - **Upstream**: <https://github.com/hashicorp/vagrant>
 - **Homepage**: <https://www.vagrantup.com>
-- **License**: NOASSERTION
+- **License**: MIT
 
 ## Release
 
 - **Latest**: `2.4.10.dev+000834-2757db88` (2025-08-21)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-11-02
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 27,218 · **Forks**: 4,527 · **Open issues**: 9,657 · **Contributors**: 1,082
+- **Stars**: 27,219 · **Forks**: 4,526 · **Open issues**: 9,657 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2802 · **Open PRs**: 83 · **Closed issues**: 8981 · **Open issues**: 676 · **Commits**: 17074
+- **Releases**: 191 · **Merged PRs**: 2804 · **Open PRs**: 83 · **Closed issues**: 8981 · **Open issues**: 676 · **Commits**: 17078
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 4 | 0 | 6 | 0 |
-| 90d | 2026-08-04 | 0 | 1 | 4 | 0 | 9 | 4 |
-| last180d | 2026-05-06 | 1 | 7 | 8 | 2 | 15 | 12 |
-| 360d | 2025-11-07 | 19 | 28 | 17 | 5 | 31 | 56 |
-| last720d | 2024-11-12 | 61 | 93 | 28 | 78 | 55 | 232 |
+| 30d | 2026-10-04 | 0 | 2 | 3 | 0 | 3 | 4 |
+| last60d | 2026-09-04 | 0 | 2 | 4 | 0 | 6 | 4 |
+| 90d | 2026-08-05 | 0 | 3 | 4 | 0 | 9 | 8 |
+| last180d | 2026-05-07 | 1 | 9 | 8 | 2 | 15 | 16 |
+| 360d | 2025-11-08 | 19 | 30 | 17 | 5 | 31 | 60 |
+| last720d | 2024-11-13 | 60 | 95 | 27 | 78 | 55 | 230 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:43:27Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:18:58Z._
