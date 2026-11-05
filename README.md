@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,220 · **Forks**: 4,496 · **Open issues**: 9,657 · **Contributors**: 1,082
+- **Stars**: 27,221 · **Forks**: 4,490 · **Open issues**: 9,657 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2804 · **Open PRs**: 83 · **Closed issues**: 8981 · **Open issues**: 676 · **Commits**: 17078
+- **Releases**: 191 · **Merged PRs**: 2804 · **Open PRs**: 83 · **Closed issues**: 8982 · **Open issues**: 675 · **Commits**: 17078
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 2 | 3 | 0 | 3 | 4 |
-| last60d | 2026-09-05 | 0 | 2 | 4 | 0 | 6 | 4 |
-| 90d | 2026-08-06 | 0 | 3 | 4 | 0 | 9 | 8 |
-| last180d | 2026-05-08 | 1 | 9 | 8 | 2 | 15 | 16 |
-| 360d | 2025-11-09 | 19 | 30 | 17 | 5 | 30 | 60 |
-| last720d | 2024-11-14 | 59 | 94 | 27 | 78 | 55 | 230 |
+| 30d | 2026-10-06 | 0 | 2 | 3 | 1 | 2 | 4 |
+| last60d | 2026-09-06 | 0 | 2 | 4 | 1 | 5 | 4 |
+| 90d | 2026-08-07 | 0 | 3 | 4 | 1 | 8 | 8 |
+| last180d | 2026-05-09 | 1 | 9 | 8 | 3 | 14 | 16 |
+| 360d | 2025-11-10 | 19 | 30 | 17 | 6 | 28 | 60 |
+| last720d | 2024-11-15 | 58 | 94 | 27 | 78 | 54 | 228 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:50:02Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:04:35Z._
