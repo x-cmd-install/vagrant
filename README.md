@@ -14,14 +14,14 @@ x install vagrant
 
 ## Code insight
 
-Total: **114,923** lines of code across **1595** files in the top 5 languages.
+Total: **114,364** lines of code across **1578** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 106,472 | 15,470 | 23,773 | 1448 |
+| Ruby | 106,496 | 15,470 | 23,772 | 1448 |
 | Yaml | 3,995 | 40 | 193 | 15 |
-| Go | 1,622 | 171 | 350 | 22 |
 | PowerShell | 1,559 | 531 | 311 | 52 |
+| Json | 974 | 0 | 0 | 5 |
 | RubyHtml | 716 | 0 | 67 | 58 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.4.10.dev+000834-2757db88` (2025-08-21)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-12
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 27,227 · **Forks**: 4,486 · **Open issues**: 9,657 · **Contributors**: 1,082
+- **Stars**: 27,227 · **Forks**: 4,488 · **Open issues**: 9,657 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2804 · **Open PRs**: 85 · **Closed issues**: 8982 · **Open issues**: 675 · **Commits**: 17078
+- **Releases**: 191 · **Merged PRs**: 2806 · **Open PRs**: 83 · **Closed issues**: 8982 · **Open issues**: 675 · **Commits**: 17080
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 2 | 4 | 1 | 1 | 4 |
-| last60d | 2026-09-13 | 0 | 2 | 6 | 1 | 5 | 4 |
-| 90d | 2026-08-14 | 0 | 3 | 6 | 1 | 7 | 8 |
-| last180d | 2026-05-16 | 1 | 9 | 9 | 3 | 14 | 16 |
-| 360d | 2025-11-17 | 19 | 30 | 19 | 6 | 27 | 57 |
-| last720d | 2024-11-22 | 58 | 94 | 29 | 76 | 54 | 228 |
+| 30d | 2026-10-14 | 0 | 4 | 2 | 1 | 1 | 6 |
+| last60d | 2026-09-14 | 0 | 4 | 3 | 1 | 5 | 6 |
+| 90d | 2026-08-15 | 0 | 5 | 4 | 1 | 7 | 10 |
+| last180d | 2026-05-17 | 1 | 11 | 7 | 3 | 14 | 18 |
+| 360d | 2025-11-18 | 19 | 32 | 17 | 6 | 27 | 59 |
+| last720d | 2024-11-23 | 58 | 96 | 27 | 76 | 54 | 230 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:00:02Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:38:09Z._
