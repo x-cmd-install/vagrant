@@ -26,13 +26,13 @@ x install vagrant
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **6.4 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install vagrant
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 3 | 1 | 2 | 6 |
-| last60d | 2026-09-17 | 0 | 4 | 4 | 1 | 4 | 6 |
-| 90d | 2026-08-18 | 0 | 5 | 5 | 1 | 8 | 10 |
-| last180d | 2026-05-20 | 1 | 11 | 8 | 3 | 14 | 18 |
-| 360d | 2025-11-21 | 18 | 30 | 18 | 6 | 26 | 48 |
-| last720d | 2024-11-26 | 58 | 96 | 28 | 76 | 55 | 230 |
+| 30d | 2026-10-18 | 0 | 4 | 3 | 1 | 2 | 6 |
+| last60d | 2026-09-18 | 0 | 4 | 4 | 1 | 4 | 6 |
+| 90d | 2026-08-19 | 0 | 5 | 5 | 1 | 8 | 10 |
+| last180d | 2026-05-21 | 1 | 11 | 8 | 3 | 14 | 18 |
+| 360d | 2025-11-22 | 17 | 29 | 18 | 6 | 26 | 48 |
+| last720d | 2024-11-27 | 58 | 96 | 27 | 76 | 55 | 230 |
 
 ## Release 资产
 
@@ -75,7 +75,7 @@ x install vagrant
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/vagrant) 上共有 **122** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/vagrant) 上共有 **123** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**53** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -94,4 +94,4 @@ vagrant 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:55:13Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:40:21Z._
