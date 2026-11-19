@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,231 · **Forks**: 4,491 · **Open issues**: 9,658 · **Contributors**: 1,082
+- **Stars**: 27,234 · **Forks**: 4,492 · **Open issues**: 9,658 · **Contributors**: 1,083
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 3 | 1 | 2 | 6 |
-| last60d | 2026-09-18 | 0 | 4 | 4 | 1 | 4 | 6 |
-| 90d | 2026-08-19 | 0 | 5 | 5 | 1 | 8 | 10 |
-| last180d | 2026-05-21 | 1 | 11 | 8 | 3 | 14 | 18 |
-| 360d | 2025-11-22 | 17 | 29 | 18 | 6 | 26 | 48 |
-| last720d | 2024-11-27 | 58 | 96 | 27 | 76 | 55 | 230 |
+| 30d | 2026-10-20 | 0 | 4 | 3 | 1 | 2 | 6 |
+| last60d | 2026-09-20 | 0 | 4 | 4 | 1 | 4 | 6 |
+| 90d | 2026-08-21 | 0 | 5 | 5 | 1 | 7 | 10 |
+| last180d | 2026-05-23 | 1 | 11 | 8 | 3 | 14 | 18 |
+| 360d | 2025-11-24 | 16 | 27 | 18 | 6 | 26 | 48 |
+| last720d | 2024-11-29 | 58 | 96 | 27 | 75 | 55 | 230 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **123** distros on [repology.org](https://repology.org/project/vagrant). **14** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
+Reported by **122** distros on [repology.org](https://repology.org/project/vagrant). **14** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for vagrant lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:40:20Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:33:12Z._
